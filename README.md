@@ -17,13 +17,13 @@ COVID-19의 영향으로 원격, 재택근무가 증가함에 따라 사무 업�
 
 ## 2. **시스템 구성**
 
-![image](https://user-images.githubusercontent.com/71309053/103477894-6cf99b80-4e06-11eb-9c5e-d5d0d93f832a.png)
+![TaskTop_시스템](https://user-images.githubusercontent.com/71309053/103478308-1b064500-4e09-11eb-964d-a7356f53c0e0.PNG)
 
 ## 3. **프로젝트 개요**
 
 ### 1. **도식도**
 
-![image](https://user-images.githubusercontent.com/71309053/103477897-6ff48c00-4e06-11eb-9a44-350a9b38733d.png)
+![TaskTop_도식도](https://user-images.githubusercontent.com/71309053/103478310-1c377200-4e09-11eb-9a46-5b1862501b13.PNG)
 
 ### 2. **동작 개요**
 
