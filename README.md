@@ -80,7 +80,9 @@ COVID-19의 영향으로 원격, 재택근무가 증가함에 따라 사무 업�
 
 1. **시연 영상**
 
-
+<a href="https://youtu.be/RBZsV7t_b1s" height="5" width="10" target="_blank">
+    <img width="600" src="http://i.ytimg.com/vi/RBZsV7t_b1s/0.jpg">
+<a>
 
 2. **프로젝트 사진** 
     - 공통
@@ -96,3 +98,7 @@ COVID-19의 영향으로 원격, 재택근무가 증가함에 따라 사무 업�
     - 사원
   ![TaskTop_MemberMain2](https://user-images.githubusercontent.com/71309053/103477992-2c4e5200-4e07-11eb-8347-60a7b5baeab7.PNG)
   ![TaskTop_MemberMain3](https://user-images.githubusercontent.com/71309053/103478030-69b2df80-4e07-11eb-9854-a17b03e63b63.PNG)
+  
+3. **팀 구성** 
+
+  ![TaskTop_팀 소개](https://user-images.githubusercontent.com/71309053/103478582-07f47480-4e0b-11eb-959f-6a43f9e102da.PNG)
